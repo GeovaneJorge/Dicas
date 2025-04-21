@@ -1,5 +1,5 @@
-# Dicas
-Discas de desenvolvimento
+# Dicas de desenvolvimento
+Dicas de desenvolvimento
 
 
 Não podemos deixar de mencionar as estruturas de controle que
